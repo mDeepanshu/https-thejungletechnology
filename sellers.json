@@ -1445,8 +1445,8 @@
     },
     {
       "seller_id": 3199446,
-      "name": "Verve Group",
-      "domain": "verve.com",
+      "name": "Verve",
+      "domain": "pubnative.net",
       "type": "INTERMEDIARY"
     },
     {
@@ -1550,6 +1550,168 @@
       "name": "PSV New",
       "domain": "ryt-music.com",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3199480,
+      "name": "Mobupps",
+      "domain": "https://mobupps.com/",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": 3199482,
+      "name": "Afront",
+      "domain": "https://afront.io/",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": 3199492,
+      "name": "Waardex",
+      "domain": "https://waardex.com/",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": 3199496,
+      "name": "Ekam digital",
+      "domain": "https://www.ekamdigitals.com/",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": 3199504,
+      "name": "Algorix",
+      "domain": "https://www.algorix.co/",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": 161023,
+      "name": "Terafort - Hypercasual",
+      "domain": "https://cuptie.co/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161024,
+      "name": "Amanotes",
+      "domain": "https://www.amanotes.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161025,
+      "name": "Playducky",
+      "domain": "https://playducky.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161026,
+      "name": "Rutvik",
+      "domain": "https://chandraghatatech.blogspot.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161028,
+      "name": "Next Billion",
+      "domain": "https://billiongamingstudio.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161030,
+      "name": "Classic words",
+      "domain": "https://classicwords.net/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161031,
+      "name": "Lezzel Technology",
+      "domain": "https://emicalculatoradvance.blogspot.com/ads.txt",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161032,
+      "name": "Appsly infotech",
+      "domain": "https://divyamcreationfinlimited.blogspot.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161033,
+      "name": "Fugo",
+      "domain": "https://fugo.com.tr/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161034,
+      "name": "Beetabyte",
+      "domain": "https://onenine19apps.blogspot.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161035,
+      "name": "Runmyads",
+      "domain": "https://easyloan-emi-loan-appvision.blogspot.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161036,
+      "name": "Karma Technology",
+      "domain": "https://duescate.blogspot.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161037,
+      "name": "Funtap games",
+      "domain": "https://corp.funtap.vn/en",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161038,
+      "name": "ABI studio",
+      "domain": "https://abigames.com.vn/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161039,
+      "name": "Peakwise Tech",
+      "domain": "https://accountemi.blogspot.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161040,
+      "name": "Gamovation",
+      "domain": "https://www.gamovation.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161041,
+      "name": "Guardian",
+      "domain": "Guardian.ng",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161042,
+      "name": "PremiumTimesng.com",
+      "domain": "https://www.premiumtimesng.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161043,
+      "name": "App Predict 2",
+      "domain": "https://prankvideoprivacy.blogspot.com/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161044,
+      "name": "mad brain games",
+      "domain": "https://braingames.net/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 161045,
+      "name": "Yolo Games",
+      "domain": "https://yologames.io/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3199512,
+      "name": "Nexverse",
+      "domain": "nexverse.ai",
+      "seller_type": "INTERMEDIARY"
     }
   ]
 }
